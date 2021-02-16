@@ -1,5 +1,4 @@
 ### Hi there , Am Abhishek Sharma 👋
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on AOSP
 - 🌱 I’m currently learning Android Development
