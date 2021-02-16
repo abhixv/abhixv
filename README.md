@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there , Am Abhishek 👋
 
-<!--
-**abhixv/abhixv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on AOSP
+- 🌱 I’m currently learning Android Development
+- 💬 Ask me about any Technical stuffs
+- 📫 How to reach me: [Telegram](https://t.me/abhixv). 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=abhixv&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+</p>
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhixv&theme=tokyonight&layout=compact" alt="Abhishek Sharma" />
+</p>
+<p align="center">
+<img src="https://profile-counter.glitch.me/abhixv/count.svg">
+</p>
