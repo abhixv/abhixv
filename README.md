@@ -6,10 +6,10 @@
 - 📫 How to reach me: [Telegram](https://t.me/abhixv). 
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=abhixv&&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=codeSTACKr">
+<img src="https://github-readme-stats.vercel.app/api?username=abhixv&&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=86400&theme=codeSTACKr">
 </p>
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhixv&theme=tokyonight&layout=compact" alt="Abhishek Sharma" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhixv&layout=compact&theme=codeSTACKr" alt="Abhishek Sharma" />
 </p>
 <p align="center">
 <img src="https://profile-counter.glitch.me/abhixv/count.svg">
