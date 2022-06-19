@@ -2,8 +2,9 @@
 
 - 🔭 I’m currently working on AOSP
 - 🌱 I’m currently learning Android Development
+- 📱 Device Maintainer at [@ProjectSakura](https://projectsakura.xyz/maintainers/) & [@HyconOS](https://www.hyconos.in/#/)
 - 💬 Ask me about any Technical stuffs
-- 📫 How to reach me: [Telegram](https://t.me/abhixv). 
+- 📫 How to reach me: [Telegram](https://t.me/abhixv)
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=abhixv&&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=86400&theme=codeSTACKr">
