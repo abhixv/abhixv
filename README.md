@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [PictoAI](https://play.google.com/store/apps/details?id=com.abhixv.pictoai)
 
+- 🌱 I’m currently learning **Flutter**
+
 - 👨‍💻 All of my projects are available at [https://abhixv.github.io](https://abhixv.github.io)
 
 - 📝 I regularly write articles on [https://abhixv.github.io](https://abhixv.github.io)
-
-- 💬 Ask me about **Flutter, Bash**
 
 - 📫 How to reach me **abhi.sharma1@hotmail.com**
 
