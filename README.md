@@ -9,15 +9,14 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [https://abhixv.github.io](https://abhixv.github.io)
+- 👨‍💻 All of my projects are available at [this Link](https://abhixv.github.io)
 
-- 📝 I regularly write articles on [https://abhixv.github.io](https://abhixv.github.io)
+- 📝 I regularly write articles on [my blogs](https://abhixv.github.io)
 
-- 📫 How to reach me **abhi.sharma1@hotmail.com**
+- 📫 How to reach me [Telegram](https://t.me/abhixv)
 
 - ⚡ Fun fact **I think am funny..**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
