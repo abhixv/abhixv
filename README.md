@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhixv" alt="abhixv" /></a> </p>
 
-- 🔭 I’m currently working on [PictoAI](https://play.google.com/store/apps/details?id=com.abhixv.pictoai)
+- 🔭 I’m currently working on [WanderWall](https://play.google.com/store/apps/details?id=com.abhixv.wanderwall)
 
 - 🌱 I’m currently learning **Flutter**
 
@@ -14,8 +14,6 @@
 - 📝 I regularly write articles on [my blogs](https://abhixv.github.io)
 
 - 📫 How to reach me [Telegram](https://t.me/abhixv)
-
-- ⚡ Fun fact **I think am funny..**
 
 <p align="left">
 </p>
