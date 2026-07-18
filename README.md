@@ -1,86 +1,124 @@
-<!-- Typing intro -->
+<!-- ============ HEADER BANNER ============ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1120,50:0b3a63,100:00cfff&height=210&section=header&text=Abhishek%20Sharma&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Android%20Platform%20Engineer%20%C2%B7%20AOSP%20%C2%B7%20Kernel%20%C2%B7%20Framework%20%C2%B7%20SystemUI&descAlignY=58&descSize=18" alt="Abhishek Sharma, Android Platform Engineer" />
+
+<!-- ============ TYPING INTRO ============ -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=00CFFF&center=true&vCenter=true&width=800&lines=Hey%2C+I%27m+Abhishek+%F0%9F%91%8B;SDE-1+%40+Primebook+India+%7C+AOSP+Explorer;Building+%26+Breaking+Android+Since+2019;Always+Learning+%26+Experimenting%21"
-    alt="Typing intro"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00CFFF&center=true&vCenter=true&width=820&lines=SDE-2+%40+Primebook+India;Building+Android+platforms+from+kernel+to+SystemUI;Bring-up%2C+debugging%2C+and+shipping+on+real+hardware;Comfortable+where+the+stack+traces+get+native"
+    alt="SDE-2 @ Primebook India, building Android platforms from kernel to SystemUI"
   />
 </p>
 
-<!-- Slim divider -->
+<!-- ============ STATUS BADGES ============ -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="60%" />
+  <img src="https://komarev.com/ghpvc/?username=abhixv&label=Profile%20views&color=00cfff&style=flat-square&labelColor=0b1120" alt="Profile views" />
+  <a href="https://github.com/abhixv?tab=followers"><img src="https://img.shields.io/github/followers/abhixv?label=Followers&style=flat-square&color=00cfff&labelColor=0b1120" alt="Followers" /></a>
+  <img src="https://img.shields.io/badge/Experience-3%2B%20years-00cfff?style=flat-square&labelColor=0b1120" alt="3+ years experience" />
+  <img src="https://img.shields.io/badge/Focus-Android%20Platform-00cfff?style=flat-square&labelColor=0b1120" alt="Focus: Android Platform" />
+  <img src="https://img.shields.io/badge/Based%20in-India-00cfff?style=flat-square&labelColor=0b1120" alt="Based in India" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/%F0%9F%8F%86%203rd%20Place-India%20Automation%20Challenge%202023-ffb000?style=flat-square&labelColor=0b1120" alt="3rd Place, India Automation Challenge 2023" />
 </p>
 
----
+<br />
 
-# 💻 About Me
+## About Me
 
-Hi, I’m **Abhishek Sharma** 👨‍💻  
-With **3 years of experience** in **Android development & AOSP**, I love digging into how Android works under the hood — from **SystemUI & frameworks** all the way down to **HALs and kernels**.
+**Android platform engineer, SDE-2 at Primebook India.** I take Android from a raw SoC and a barely booting code dump to a stable OS running on real, shipping hardware.
 
----
+Since 2019 I’ve lived in the parts of the stack most people never touch: **SystemUI, framework services, HALs, and the kernel**. Lately I’m also building an **AI operator that runs inside the OS** and gets your tasks done for you.
 
-# 🚀 What I Work On  
+<br />
 
-<img align="right" width="220" src="https://media.giphy.com/media/l0ExncehJzexFpRHq/giphy.gif" alt="Linux Boot" />
+## Achievements
 
-### 🐧 Kernel / SoC  
-- Poking around kernels until they finally decide to boot without throwing tantrums  
-- Wrestling with SoCs (MTK, Rockchip, you name it) because apparently that’s a hobby now  
+🏆 **3rd Place, India Automation Challenge 2023.** Finished on the national podium in one of India’s biggest automation challenges.
 
-### 📱 System & Framework  
-- Messing with Android’s system layer — the part users never see but somehow always manage to break  
-- Making UI bits behave, then breaking them again just to see if I can fix them faster  
+<br />
 
-### 📦 Android OS  
-- Turning “barely-boots” code dumps into actual Android builds (lots of coffee required)  
+## Core Expertise
 
-### 🛠️ Tools & Cloud  
-- Playing cloud games with AWS (sometimes servers, sometimes just my patience)  
-- Advanced Git wizardry: patching, bisecting, rewriting history like it never happened 😏  
+<img align="right" width="230" src="https://media.giphy.com/media/l0ExncehJzexFpRHq/giphy.gif" alt="Linux boot animation" />
 
+**Kernel & SoC Bring-up**
+- Board bring-up and stabilization across **Qualcomm**, **MediaTek**, and **Rockchip** platforms
+- Device trees, defconfigs, and boot-chain debugging from bootloader to `init`
+- Diagnosing panics and boot hangs directly from kernel logs and native stack traces
 
----
+**System & Framework**
+- Deep work in **SystemUI**, system services, and the IPC plumbing behind the UI
+- Tracing defects from a visible symptom down to the exact framework or HAL call that caused it
+- **AIDL** interfaces and the boundaries between app, framework, and native layers
 
-# 🧰 Tech Stack
+**Android OS Integration**
+- Turning partial code dumps into complete, bootable **AOSP** builds
+- Build systems (**Soong / Make**), image assembly, and platform customization
+- Full ownership of the path from source to a device that ships
 
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=openjdk&logoColor=white)  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)  
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![AIDL](https://img.shields.io/badge/AIDL-34A853?style=for-the-badge&logo=android&logoColor=white)  
-![Soong](https://img.shields.io/badge/Soong-4285F4?style=for-the-badge&logo=android&logoColor=white)  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  
+**Tooling, Build Infra & Cloud**
+- AOSP build infrastructure and CI pipelines, backed by **AWS**
+- Advanced **Git** as a debugging discipline: bisect, patch trains, and history surgery to isolate the commit behind a regression
 
+**AI & Agents (current focus)**
+- Building an **AI operator that runs inside the OS** and carries out user tasks end to end
+- Letting the agent plan, use tools, and drive the system and its UI the way a person would
+- Wiring the agent layer straight into the low-level platform I already work on
 
----
+<br clear="right" />
 
-# 📊 GitHub Fun
+<br />
+
+## Tech Stack
+
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=kotlin,java,c,cpp,ts,js,dart&theme=dark" alt="Kotlin, Java, C, C++, TypeScript, JavaScript, Dart" />
+</p>
+
+**Android & Systems**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=android,flutter,linux&theme=dark" alt="Android, Flutter, Linux" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/AOSP-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="AOSP" />
+  <img src="https://img.shields.io/badge/AIDL-34A853?style=for-the-badge&logo=android&logoColor=white" alt="AIDL" />
+  <img src="https://img.shields.io/badge/Soong-4285F4?style=for-the-badge&logo=android&logoColor=white" alt="Soong" />
+  <img src="https://img.shields.io/badge/HAL-607D8B?style=for-the-badge&logo=android&logoColor=white" alt="HAL" />
+</p>
+
+**Tools & Cloud**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,aws,gradle,bash&theme=dark" alt="Git, AWS, Gradle, Bash" />
+</p>
+
+<br />
+
+## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhixv&show_icons=true&theme=tokyonight" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhixv&theme=tokyonight" height="180px"/>
+  <img height="165px" src="https://streak-stats.demolab.com/?user=abhixv&theme=tokyonight&hide_border=true&background=0b1120&ring=00cfff&fire=00cfff&currStreakLabel=00cfff" alt="Abhishek's GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhixv&bg_color=1a1b27&color=00cfff&line=00cfff&point=ffffff&area=true&hide_border=true" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=abhixv&bg_color=0b1120&color=00cfff&line=00cfff&point=ffffff&area=true&hide_border=true" alt="Contribution activity graph" />
 </p>
 
----
+<br />
 
-# 📬 Let’s Connect
+## Let’s Connect
 
 <p align="center">
-  <a href="https://github.com/abhixv"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" /></a>
-  <a href="https://www.linkedin.com/in/abhixv"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://github.com/abhixv"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/abhixv"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="mailto:abhixv.sh@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
----
+<p align="center">
+  <sub><i>Open to conversations about Android platform work, AOSP, and low-level systems.</i></sub>
+</p>
 
-✨ My repos = experiments + ideas + hacks. Expect **rough edges, wild ideas, and plenty of “works on my machine”** moments 😅
+<!-- ============ FOOTER BANNER ============ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00cfff,50:0b3a63,100:0b1120&height=120&section=footer" alt="footer" />
